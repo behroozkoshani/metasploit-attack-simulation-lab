@@ -89,6 +89,46 @@ These are defensive lessons from the exercise; I did not document tests of these
 I practiced generating a lab payload, configuring a matching listener, and working with a Meterpreter session. I connected the steps of simulated phishing, execution, remote access, and file retrieval to opportunities for prevention and detection.
 
 ## Evidence and Limitations
-This report documents the commands and activities I performed. Screenshots and captured logs have not yet been included. It does not claim that the payload bypassed antivirus or other security controls.
+This report documents the commands and activities I performed. Screenshots are included below; separate captured logs have not been included. It does not claim that the payload bypassed antivirus or other security controls.
 
-Only documentation and redacted screenshots belong in this repository. The executable payload and test-file contents are excluded.
+This repository contains documentation and lab screenshots, including simulated test-file contents. The executable payload is excluded.
+
+## Screenshot Evidence
+
+These nine screenshots document the authorized lab exercise. The test-file contents are simulated data.
+
+### 1. Metasploit Console
+
+![Metasploit Console](01-metasploit-console.png)
+
+### 2. Payload Generation
+
+![Payload Generation](02-payload-generation.png)
+
+### 3. Listener Configuration
+
+![Listener Configuration](03-listener.png)
+
+### 4. Simulated Phishing Email
+
+![Simulated Phishing Email](04-phishing-email.png)
+
+### 5. Target Inbox
+
+![Target Inbox](05-target-inbox.png)
+
+### 6. Execution Warning
+
+![Execution Warning](06-execution-warning.png)
+
+### 7. Session Established
+
+![Session Established](07-session-established.png)
+
+### 8. Test File Download
+
+![Test File Download](08-test-file-download.png)
+
+### 9. Simulated Test File Contents
+
+![Simulated Test File Contents](09-test-file-contents.png)
