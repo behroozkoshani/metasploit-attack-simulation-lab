@@ -132,18 +132,3 @@ These nine screenshots document the authorized lab exercise. The test-file conte
 ### 9. Simulated Test File Contents
 
 ![Simulated Test File Contents](09-test-file-contents.png)
-
-
----
-
-## More Cybersecurity Projects
-
-In addition to this hands-on Metasploit lab, I maintain three defensive security engineering prototypes. Each includes Python source, synthetic sample input, documentation, tests, and an **illustrated** findings walkthrough. The illustrations are clearly labeled examples, not live-lab screenshots.
-
-| Project | Description | Documentation |
-| --- | --- | --- |
-| [Cloud Security Configuration Analyzer](https://github.com/behroozkoshani/behroozkoshani.github.io/tree/main/projects/cloud-security-assessment) | Offline Terraform plan checks for publicly exposed administrative ports, S3 protection settings, and broad IAM permissions | [Visual walkthrough](https://github.com/behroozkoshani/behroozkoshani.github.io/blob/main/projects/cloud-security-assessment/SCREENSHOTS.md) |
-| [Vulnerability Prioritization Engine](https://github.com/behroozkoshani/behroozkoshani.github.io/tree/main/projects/vulnerability-management) | Risk-based ranking of synthetic vulnerability findings and example remediation targets | [Visual walkthrough](https://github.com/behroozkoshani/behroozkoshani.github.io/blob/main/projects/vulnerability-management/SCREENSHOTS.md) |
-| [Active Directory Security Audit](https://github.com/behroozkoshani/behroozkoshani.github.io/tree/main/projects/active-directory-security) | Identity inventory checks for stale accounts, privileged-account risks, and Kerberos preauthentication settings | [Visual walkthrough](https://github.com/behroozkoshani/behroozkoshani.github.io/blob/main/projects/active-directory-security/SCREENSHOTS.md) |
-
-[Browse the full cybersecurity project collection](https://github.com/behroozkoshani/behroozkoshani.github.io/tree/main/projects).
